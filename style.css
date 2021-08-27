@@ -89,4 +89,16 @@ article{
     .form{
         margin: 0 auto;
     }
+    article{
+        margin: 0 auto;
+        margin-top: 20PX;
+    }
 }
+@media screen and (max-width:600px){
+    article{
+        width: 40%;
+        margin:0 auto;
+        margin-top: 20PX;
+    }
+}
+
